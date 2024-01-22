@@ -5,8 +5,9 @@
 - 📫 How to reach me: email: pahari.r@northeastern.edu, mobile: 857 468 9943
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to sketch and paint. Yes I do make portraits as well but I am more of a landscape person. I love hiking, watching movies and also eating.
+- Also, I have taken a finance major during my MBA and have taken a 3 credit Economic course. I took Project management as a major during my bachelors and applied these knowlege during my professional period before northeastern.
 
-<!---
+- 
 Rashmi-Pahari/Rashmi-Pahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
